@@ -24,4 +24,19 @@
 
 <img src="push.png">
 
+## to test app we got 2 options 
+
+<img src="ops.png">
+
+## build docker image 
+
+<img src="build1.png">
+
+### creating container 
+
+<img src="run1.png">
+
+
+
+
 
