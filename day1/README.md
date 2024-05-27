@@ -57,6 +57,12 @@
 
 <img src="compose1.png">
 
+### introduction to CI | cd tool -- inbuild with github repo now 
+## github actions -- workflow automation tool 
+
+<img src="action1.png">
+
+
 
 
 
