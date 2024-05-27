@@ -62,6 +62,15 @@
 
 <img src="action1.png">
 
+## runners in github actions 
+
+<img src="runners.png">
+
+### first demo githubactions file 
+
+<img src="actions2.png">
+
+
 
 
 
