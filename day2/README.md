@@ -87,6 +87,17 @@
 
 <img src="setup.png">
 
+### checking sonar-scanner version 
+
+<img src="scan1.png">
+
+### scanning python code using sonar-scanner locally 
+
+<img src="scan2.png">
+
+### custom github runners  tasks
+
+<img src="tasks.png">
 
 
 
