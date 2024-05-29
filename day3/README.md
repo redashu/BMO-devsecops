@@ -39,6 +39,12 @@
 
 <img src="ecrpush.png">
 
+### secret managers for developers to store confidentail info 
+
+<img src="secret1.png">
+
+
+
 
 
 
