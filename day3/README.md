@@ -44,6 +44,18 @@
 <img src="secret1.png">
 
 
+### try cdk to create ECR 
+
+<img src="ecr1.png">
+
+### understanding DAST location and usage
+
+<img src="dast.png">
+
+### image scanning 
+
+
+<img src="trivy.png">
 
 
 
