@@ -17,5 +17,33 @@
 
 <img src="exepol.png">
 
+### multip job demo project
+
+<img src="demo1.png">
+
+### pushing docker image to ECR for better security 
+
+<img src="ecr.png">
+
+### pushing image to ECR from local system 
+
+- step 1 -- use aws configure and do the needful
+- step 2 -- tag docker image to ECR format
+- step 3 -- login to ECR from local machine using docker cli 
+- step 4 - push docker image to ECR 
+
+### aws configure & docker tag 
+
+<img src="awsd.png">
+### login ECR from docker cli and push 
+
+<img src="ecrpush.png">
+
+
+
+
+
+
+
 
 
