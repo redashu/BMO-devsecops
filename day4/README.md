@@ -20,4 +20,9 @@
 
 <img src="cdk1.png">
 
+### rolling updates in ECS as deployment type 
+
+<img src="roll.png">
+
+
 
